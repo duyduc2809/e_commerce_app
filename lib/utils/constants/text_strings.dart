@@ -1,4 +1,4 @@
-class AppTexts {
+class TextsConstants {
   // -- Global Texts
 
   // -- Onboarding Texts
